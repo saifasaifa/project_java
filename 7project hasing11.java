@@ -17,7 +17,7 @@ public class Main {
 				}
 			} catch (InputMismatchException e) {
 				System.out.println("Error: Please enter a number.");
-				sc.next(); // clear wrong input
+				sc.next();
 			}
 		}
 
@@ -144,3 +144,4 @@ public class Main {
 		}
 	}
 }
+
